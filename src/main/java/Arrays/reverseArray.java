@@ -1,3 +1,10 @@
+/*
+Given an array (or string), the task is to reverse the array/string.
+
+Examples:
+
+Input: original_array[] = {1, 2, 3} Output: array_reversed[] = {3, 2, 1}
+*/
 package Arrays;
 
 public class reverseArray {
